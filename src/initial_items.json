@@ -1,0 +1,74 @@
+[
+  {
+    "user_id": "ZM176",
+    "keywords": ["hammer", "nails", "tools"],
+    "name": "Hammer and nails",
+    "description": "A hammer and nails set with three different types of nails",
+    "image": null,
+    "lat": 47.497,
+    "lon": 19.04
+  },
+  {
+    "user_id": "AB123",
+    "keywords": ["book", "novel", "literature"],
+    "name": "Classic Novel",
+    "description": "A classic novel in excellent condition",
+    "image": null,
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "user_id": "CD456",
+    "keywords": ["laptop", "electronics", "computer"],
+    "name": "Used Laptop",
+    "description": "A used laptop with minor scratches but fully functional",
+    "image": null,
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "user_id": "EF789",
+    "keywords": ["bicycle", "transport", "bike"],
+    "name": "Mountain Bike",
+    "description": "A mountain bike suitable for off-road trails",
+    "image": null,
+    "lat": 35.6895,
+    "lon": 139.6917
+  },
+  {
+    "user_id": "GH012",
+    "keywords": ["guitar", "music", "instrument"],
+    "name": "Acoustic Guitar",
+    "description": "An acoustic guitar in good condition",
+    "image": null,
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  {
+    "user_id": "IJ345",
+    "keywords": ["camera", "photography", "electronics"],
+    "name": "Digital Camera",
+    "description": "A digital camera with 20MP resolution",
+    "image": null,
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "user_id": "KL678",
+    "keywords": ["sofa", "furniture", "home"],
+    "name": "Leather Sofa",
+    "description": "A comfortable leather sofa in great condition",
+    "image": null,
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "user_id": "MN901",
+    "keywords": ["watch", "accessory", "fashion"],
+    "name": "Wrist Watch",
+    "description": "A stylish wrist watch with leather strap",
+    "image": null,
+    "lat": 39.9042,
+    "lon": 116.4074
+  }
+]
