@@ -11,15 +11,19 @@ const client = {
   hello: () => {
     return V("hello")();
   },
-  item: (item) => {
-    return V("item")({ item });
+  chirps_list: ( chirps ) => {
+    return V("chirps_list")({ chirps });
   },
-  items: (items) => {
-    return V("items")({ items });
+  CreateChrip: () => {
+    return V("createChirp")();
   },
-  createItem: () => {
-    return V("createItem")();
+  ViewChirp: (chirp) => {
+    return V("chirp")({ chirp })
   },
+  ChirpsAuthorList: (chirpsList, author_name) => {
+    return V('chripAuthorList')({ chirpsList, author_name })
+  }
+
 };
 
 export default client;
